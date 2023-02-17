@@ -16,7 +16,7 @@ _Followed by the following command to verify CLI has been updated_
 aws --version
 ```
 
-!.[Updated CLI].(assets\cli.png)
+![Updated CLI](assets/cli.png)
 
 ### ✅ Create Admin user
 
