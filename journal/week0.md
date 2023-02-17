@@ -78,7 +78,7 @@
 
 ### ✅ Support Ticket for Service Limits
 
-_To create a support ticket for service limit increase I utilized OpenAI latest chatbot_
+- _To create a support ticket for service limit increase I utilized OpenAI latest chatbot_
 
 - Open [ChatGPT](https://chat.openai.com/chat)
 - Enter "how to request service limit increase in aws"
